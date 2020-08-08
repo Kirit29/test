@@ -1,0 +1,19 @@
+{
+  "reponame":"Fangame",
+  "repologo":"",
+  "repoauthor":"Kirit",
+  "repodesc":"This is an example Eclipse repo. It is pretty cool.",
+  "categories":[
+    {
+      "categoryname":"gba",
+      "games":[
+        {
+          "name":"Adventure Red",
+          "link":"https://www.dropbox.com/s/ak9ctjzyqhtsekx/Pokemon%20Adventure%20-%20Red%20Chapter.gba?dl=1",
+          "boxart":"Game Boxart",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
